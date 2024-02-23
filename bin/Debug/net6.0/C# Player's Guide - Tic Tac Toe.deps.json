@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C# Player's Guide - Tic Tac Toe/1.0.0": {
+        "runtime": {
+          "C# Player's Guide - Tic Tac Toe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# Player's Guide - Tic Tac Toe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

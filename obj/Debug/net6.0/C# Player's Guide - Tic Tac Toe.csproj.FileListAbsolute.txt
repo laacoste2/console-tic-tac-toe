@@ -1,0 +1,14 @@
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\obj\Debug\net6.0\C# Player's Guide - Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\obj\Debug\net6.0\C# Player's Guide - Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\obj\Debug\net6.0\C# Player's Guide - Tic Tac Toe.AssemblyInfo.cs
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\obj\Debug\net6.0\C# Player's Guide - Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\bin\Debug\net6.0\C# Player's Guide - Tic Tac Toe.exe
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\bin\Debug\net6.0\C# Player's Guide - Tic Tac Toe.deps.json
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\bin\Debug\net6.0\C# Player's Guide - Tic Tac Toe.runtimeconfig.json
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\bin\Debug\net6.0\C# Player's Guide - Tic Tac Toe.dll
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\bin\Debug\net6.0\C# Player's Guide - Tic Tac Toe.pdb
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\obj\Debug\net6.0\C# Player's Guide - Tic Tac Toe.dll
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\obj\Debug\net6.0\refint\C# Player's Guide - Tic Tac Toe.dll
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\obj\Debug\net6.0\C# Player's Guide - Tic Tac Toe.pdb
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\obj\Debug\net6.0\C# Player's Guide - Tic Tac Toe.genruntimeconfig.cache
+C:\Users\rafar\OneDrive\Área de Trabalho\vscode projects\C#\C# Player's Guide - Tic Tac Toe\C# Player's Guide - Tic Tac Toe\obj\Debug\net6.0\ref\C# Player's Guide - Tic Tac Toe.dll
